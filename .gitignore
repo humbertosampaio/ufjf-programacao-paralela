@@ -3,3 +3,6 @@
 
 # Java
 *.class
+
+# Visual Studio Code
+.vscode/*
